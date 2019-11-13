@@ -69,7 +69,7 @@ ModelImporter:
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
-    animationWrapMode: 0
+    animationWrapMode: 2
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations:
@@ -79,7 +79,7 @@ ModelImporter:
       internalID: 6079197308477891184
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -108,7 +108,7 @@ ModelImporter:
       internalID: -7357564094110346589
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -137,7 +137,7 @@ ModelImporter:
       internalID: -2301200880166138071
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -166,7 +166,7 @@ ModelImporter:
       internalID: 4843499435000789814
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -195,7 +195,7 @@ ModelImporter:
       internalID: 4318649421331980312
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -224,7 +224,7 @@ ModelImporter:
       internalID: -3730738131256147901
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -253,7 +253,7 @@ ModelImporter:
       internalID: -6621392461360539630
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -282,7 +282,7 @@ ModelImporter:
       internalID: 7672841568993384313
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -311,7 +311,7 @@ ModelImporter:
       internalID: -6090213109682292371
       firstFrame: 0
       lastFrame: 179
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
