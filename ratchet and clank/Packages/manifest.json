@@ -9,6 +9,10 @@
     "com.unity.postprocessing": "2.1.7",
     "com.unity.probuilder": "4.1.0",
     "com.unity.purchasing": "2.0.6",
+<<<<<<< HEAD
+=======
+    "com.unity.render-pipelines.high-definition": "5.16.1-preview",
+>>>>>>> parent of 9191a94... hd 2
     "com.unity.shadergraph": "5.7.2",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.0.0",
