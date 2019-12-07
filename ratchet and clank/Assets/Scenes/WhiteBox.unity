@@ -237,7 +237,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2114059663}
   m_PrefabAsset: {fileID: 0}
---- !u!95 &703559351
+--- !u!95 &703559350
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
@@ -247,7 +247,7 @@ Animator:
   m_GameObject: {fileID: 703559349}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e68cc1bc69c5b1344a8afabc1e968b8c, type: 2}
+  m_Controller: {fileID: 9100000, guid: ab10f5387f30ff34b9190d313257ec02, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
